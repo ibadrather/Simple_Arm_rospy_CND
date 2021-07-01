@@ -1,1 +1,3 @@
-# Simple_Arm_rospy_CND
+# Simple Arm
+
+This repository contains code for Arm Mover task for Udacity Self Driving Car ND.
